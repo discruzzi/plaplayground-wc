@@ -1,0 +1,7 @@
+{
+  "name": "@wcd/discruzzi.plainjs-le1gavym",
+  "version": "0.0.0",
+  "scripts": {
+    "serve": "npx wcd-cli@latest serve 7ky2IUwDSZ5hq1KAMKai --open"
+  }
+}
